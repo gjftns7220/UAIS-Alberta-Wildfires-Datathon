@@ -1,7 +1,7 @@
 # UAIS-Alberta-Wildfires-Datathon
 
-Welcome to my project page for the Undergraduate Artificial Intelligence Society (UAIS) 2023 
-Alberta Wildfires Datathon. My name is Yong, and this is where you'll find my solution to this exciting challenge.
+Welcome to my project page for the Undergraduate Artificial 
+Intelligence Society (UAIS) 2023 Alberta Wildfires Datathon.
 
 You can check the official results here:[Leaderboard](https://github.com/UndergraduateArtificialIntelligenceClub/September-2023-Datathon-Submission-Results/tree/main)
 
