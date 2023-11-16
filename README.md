@@ -5,6 +5,9 @@
 Welcome to my project page for the Undergraduate Artificial 
 Intelligence Society (UAIS) 2023 Alberta Wildfires Datathon.
 
+I have designed a comprehensive machine-learning model to predict Alberta’s fire sizes based on real-life data.
+The competition spanned 16 days, involving 10 teams, and concluded with the awarding of 1st Place.
+
 You can check the official results here:[Leaderboard](https://github.com/UndergraduateArtificialIntelligenceClub/September-2023-Datathon-Submission-Results/tree/main)
 
 **Flowchart Overview**
