@@ -1,4 +1,4 @@
-# UAIS-Alberta-Wildfires-Datathon
+# UAIS Alberta Wildfires Datathon - 1st Place Winning Solution
 
 **Introduction to the Project**
 
