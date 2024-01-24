@@ -13,7 +13,7 @@ You can check the official results here:[Leaderboard](https://github.com/Undergr
 **Flowchart Overview**
 
 
-<img src="https://github.com/gjftns7220/UAIS-Alberta-Wildfires-Datathon/assets/143769164/3d51e171-51f8-419c-bc9f-a98e2abdb9cb" width="500">
+<img src="https://github.com/gjftns7220/UAIS-Alberta-Wildfires-Datathon/assets/143769164/3d51e171-51f8-419c-bc9f-a98e2abdb9cb" width="500" height="790">
 
 **Dataset Description**
 
